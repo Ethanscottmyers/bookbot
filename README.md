@@ -1,2 +1,3 @@
 # bookbot
-Python application for analyzing books. Part of a course on boot.dev. 
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
